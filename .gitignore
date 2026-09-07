@@ -1,0 +1,33 @@
+# ============================================================================
+# .gitignore — KL-TRP63 repository
+# 防止超过 GitHub 单文件 100MB 硬限制的大文件被误提交。
+# 这些文件已在 data/README.md 清单中登记, 请托管于外部(Zenodo/figshare等)
+# 并将下载链接填入该清单。小文件(<100MB)不受影响, 正常提交。
+# ============================================================================
+
+# ---- data/ 下超过 100MB 的大文件(GitHub 无法提交, 走外部托管) ----
+data/GFP_algin_score.txt
+data/tdTomato_algin_score.txt
+data/scc_tong_2026/scc_epi_subset_obj.rds
+data/clinical_validation/kras_se_obj_with_scores.rds
+data/clinical_validation/egfr_epi_subset.rds
+
+# ---- data/precomputed/ 下超过 100MB 的大文件 ----
+data/precomputed/seurat/se.rds
+data/precomputed/seurat/se_trajectory_subset.rds
+data/precomputed/seurat/se_trajectory_subset.h5ad
+data/precomputed/seurat/se_harmony_integrated_epi_subset_final_3_samples.rds
+data/precomputed/seurat/se_harmony_integrated_3samples_epithelium.rds
+
+# ---- R / Python 常规忽略 ----
+.Rhistory
+.Rapp.dir
+.RData
+.Rproj.user/
+*.Rproj
+.ipynb_checkpoints/
+__pycache__/
+
+# ---- 系统文件 ----
+.DS_Store
+Thumbs.db

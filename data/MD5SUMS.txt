@@ -1,0 +1,40 @@
+d896f5552a0ce3f0f729a8ecc9aef6ea  ./geneset.hs.gmt
+63da87906270b16ef30925ee89026c5f  ./tdTomato_algin_score.txt
+2fb97eb623165ab78a5ecdc4a7fd4ce4  ./precomputed/slingshot/slingshot_weights.csv
+9f64f5bb5072f7192bf790c4fcf52e9a  ./precomputed/slingshot/slingshot_pseudotime.csv
+bd6e8fc768cd28e33752b3c688e2ce0f  ./precomputed/slingshot/patternRes_filter.csv
+4d057de2e9b9242ad3845d004181077d  ./precomputed/slingshot/sce_full.rds
+81fc6f57459833cc81ccf88671ef44ad  ./precomputed/SCENIC_trajectory/int/2.6_regulons_asGeneSet.Rds
+a37d20e9111c0a289d6d92d7d0585b23  ./precomputed/SCENIC_trajectory/int/scenicOptions.Rds
+ed04308320b55ccb432d5196e46cb970  ./precomputed/SCENIC_trajectory/int/3.5_AUCellThresholds.Rds
+1b604815e0490323d2f58423f04e35e5  ./precomputed/SCENIC_td/aux_createViewerApp.R
+4bef7c6d64b077e6ee1efd17e32e0e00  ./precomputed/td_ratio/association_results.csv
+34e3da66b922e249fc2b027c9d37e57a  ./precomputed/seurat/se_trajectory_subset.rds
+4c575215be3f53c87da99b099e1f6ee2  ./precomputed/seurat/immune_annotation.csv
+d2d5ec702bc1503a5e051b60664112dc  ./precomputed/seurat/se.rds
+fc33b89c72eb6919ef79927b625fadba  ./precomputed/seurat/se_harmony_integrated_3samples_epithelium.rds
+bf8432545c36878dda3d58769f079981  ./precomputed/seurat/se_harmony_integrated_epi_subset_final_3_samples.rds
+f94d01746296aab37337735d8856df27  ./precomputed/seurat/se_trajectory_subset.h5ad
+ee94e09fd4aa71d29e7b9c2d4c60e8c2  ./precomputed/seurat/epithelium_annotation.csv
+7f3f41e09d0cea41325a5127b40893a3  ./precomputed/survival/TCGA-LUSC_vst_counts_with_symbols.rds
+3e311bcb294d8c122a6a1d6b0bc8189b  ./precomputed/survival/KRYSTAL-1_trial/meta_dat.csv
+bc7b95b9ca75f98340aed97e8b10237a  ./precomputed/survival/KRYSTAL-1_trial/vst_counts.rds
+ab6dff6ecc0447764b2d3b0b28e5f5f9  ./precomputed/survival/KRYSTAL-1_trial/mmc3 (1).xlsx
+4da4a9223a5607bf5197c2c711c0d3c5  ./precomputed/survival/KRYSTAL-1_trial/mmc2 (1).xlsx
+e86808a620956dd1df2a83b2f0d5e4a8  ./precomputed/survival/human_all_signature_without_pattern_list.rds
+5cbe47e1515f1cb634f1fbec887c8c5a  ./precomputed/survival/TCGA-LUAD_clinical_data.rds
+59bd92d5ac57923266a5b6d85b87b45d  ./precomputed/survival/TCGA-LUAD_vst_counts_with_symbols.rds
+9a048ba1888b7d820ed226ba369f2f80  ./precomputed/survival/TCGA-LUSC_clinical_data.rds
+175b38a7b6508e6cd4b054fc4ec6cc22  ./precomputed/cellrank/C2_drivers.csv
+2de665c7c8f14413c14b7e3f205bbd16  ./precomputed/cellrank/C1_drivers.csv
+016779081871ae6138ccc91d05c3ac74  ./10xgenomics/sample_filtered_feature_bc_matrix.h5
+5c9463173823b6a3c62d1ccbca24f2da  ./GFP_algin_score.txt
+ec117dd01e904a71a5abf5c63e9ffdfe  ./clinical_validation/KOBAYASHI_EGFR_SIGNALING_24HR_DN.v2026.1.Hs.gmt
+28dac9820da331a6635fde862ab6e3ab  ./clinical_validation/KRAS_induced& suppressed.csv
+66c1424e46c53754fa66be70025ad883  ./clinical_validation/KOBAYASHI_EGFR_SIGNALING_24HR_UP.v2026.1.Hs.gmt
+9fae6f50b04a69554c8f532e64c8efcc  ./clinical_validation/kras_se_obj_with_scores.rds
+e201bc95f24607b875ae078fe1d82c05  ./gene_orthology/human_all_signature_without_pattern_list.rds
+07744da94a1e5ebbe195c68737016dac  ./scc_tong_2026/scc_epi_subset_obj.rds
+63e2ba54203f823c9f94337f5d4882d7  ./scc_tong_2026/filtered_feature_bc_matrix.h5
+ffa4b7215af93140c61851c1113cffdc  ./gene_orthology/gene_signatures_list_mouse.rds
+fc301b4d01595cd9352494586b129450  ./clinical_validation/merged_tpm_organoid_processed.csv
